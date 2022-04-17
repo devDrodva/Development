@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "npm": "^8.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9"
+  },
+  "presets": ["@babel/preset-env"]
+}
